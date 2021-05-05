@@ -1,2 +1,2 @@
 # RexScratch.github.io
-Tools for my Scratch projects
+Narzędzia do projektów w Scratch autorstwa -Rex-
